@@ -40,6 +40,7 @@
 
     <string name="input_subtype_en_US">English (US)</string>
     <string name="input_subtype_ru_RU_BB_Passport">Русский (BB Passport)</string>
+    <string name="input_subtype_ru_RU_BB_Passport">Русский (BB Classic)</string>
     <string name="input_subtype_ru_RU_Transliterate">Русский (Транслит)</string>
     <string name="input_subtype_ru_RU_Alt">Русский (Alt)</string>
 

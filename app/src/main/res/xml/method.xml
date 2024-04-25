@@ -24,6 +24,15 @@
         android:imeSubtypeExtraValue="DisplayTag=ru,KeyboardMapping=ru_bbp,EmojiCapable" />
 
     <subtype
+        android:label="@string/input_subtype_ru_RU_BB_Classic"
+        android:subtypeId="0x02"
+        android:imeSubtypeLocale="ru"
+        android:languageTag="ru"
+        android:imeSubtypeMode="keyboard"
+        android:isAsciiCapable="false"
+        android:imeSubtypeExtraValue="DisplayTag=ru,KeyboardMapping=ru_bbc,EmojiCapable" />
+
+    <subtype
         android:label="@string/input_subtype_ru_RU_Transliterate"
         android:subtypeId="0x03"
         android:imeSubtypeLocale="ru"
