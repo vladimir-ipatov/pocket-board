@@ -8,11 +8,11 @@
     </Key>
     <Key code="33" shiftValue="У" value="у">
         <Alt value="2" />
-        <Alt value="\@" />
+        <Alt value="@" />
     </Key>
     <Key code="46" shiftValue="К" value="к">
         <Alt value="3" />
-        <Alt value="\#" />
+        <Alt value="#" />
     </Key>
     <Key code="48" shiftValue="Е" value="е">
         <Add shiftValue="Ё" value="ё" />
@@ -46,7 +46,7 @@
         <Alt value=";" />
     </Key>
     <Key code="29" shiftValue="Ф" value="ф">
-        <Alt value="\@" />
+        <Alt value="@" />
     </Key>
     <Key code="47" shiftValue="Ы" value="ы">
         <Add shiftValue="Ъ" value="ъ" />
@@ -68,7 +68,7 @@
         <Alt value="*" />
     </Key>
     <Key code="36" shiftValue="Р" value="р">
-        <Alt value="\#" />
+        <Alt value="#" />
         <Alt value="№" />
     </Key>
     <Key code="38" shiftValue="О" value="о">
@@ -110,6 +110,6 @@
     </Key>
     <Key code="41" shiftValue="Б" value="б">
         <Add shiftValue="Ю" value="ю" />
-        <Alt value="\?" />
+        <Alt value="?" />
     </Key>
 </KeyboardMapping>
