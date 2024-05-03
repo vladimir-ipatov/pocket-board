@@ -106,7 +106,7 @@
     </Key>
 
     <!-- Z -->
-    <Key code="54" value="" shiftValue="Я">
+    <Key code="54" value="я" shiftValue="Я">
         <Add value="ь" shiftValue="Ь" />
         <Alt value="!" />
     </Key>

@@ -25,7 +25,7 @@
 
     <subtype
         android:label="@string/input_subtype_ru_RU_BB_Classic"
-        android:subtypeId="0x02"
+        android:subtypeId="0x05"
         android:imeSubtypeLocale="ru"
         android:languageTag="ru"
         android:imeSubtypeMode="keyboard"
