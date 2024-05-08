@@ -107,12 +107,10 @@
 
     <!-- Z -->
     <Key code="54" value="я" shiftValue="Я">
-        <Add value="ь" shiftValue="Ь" />
         <Alt value="!" />
     </Key>
     <!-- X -->
     <Key code="52" value="ч" shiftValue="Ч">
-        <Add value="ъ" shiftValue="Ъ" />
         <Alt value="7" />
     </Key>
     <!-- C -->
@@ -125,10 +123,12 @@
     </Key>
     <!-- B -->
     <Key code="30" value="и" shiftValue="И">
+        <Add value="ъ" shiftValue="Ъ" />
         <Alt value="." />
     </Key>
     <!-- N -->
     <Key code="42" value="т" shiftValue="Т">
+        <Add value="ь" shiftValue="Ь" />
         <Alt value="," />
     </Key>
     <!-- M -->
